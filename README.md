@@ -1,2 +1,1 @@
-hello
-hell
+I am Lakshya Solanki. I am from Agra Uttarpradesh. I Get to know about coding after the completion of my 12 class board and after my boards i started studing python i learn pythonm at the level of medium now currently doing DSA in python i found it comfortable in python so i attempted it i am not totally good at dsa. i used youtube to decode the question and try it by my self. and i added time complexcity of all the tasks with it with joining technojam i found my self in comfortable place with help of the sniors  i can achive my best.
