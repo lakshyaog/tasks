@@ -32,4 +32,4 @@ Joining **TechnoJam** has been a **game-changer** for me! With the support of my
 
 ---
 
-_"The best way to predict the future is to create it." – Alan Kay_  
+_"The best way to predict the future is to create it." – Alan Kay_ . 
